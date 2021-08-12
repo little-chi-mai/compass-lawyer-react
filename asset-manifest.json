@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/compass-lawyer-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/compass-lawyer-react/static/js/main.20e2131b.chunk.js",
+    "main.js.map": "/compass-lawyer-react/static/js/main.20e2131b.chunk.js.map",
+    "runtime-main.js": "/compass-lawyer-react/static/js/runtime-main.27d96a3b.js",
+    "runtime-main.js.map": "/compass-lawyer-react/static/js/runtime-main.27d96a3b.js.map",
+    "static/js/2.8d68d4e5.chunk.js": "/compass-lawyer-react/static/js/2.8d68d4e5.chunk.js",
+    "static/js/2.8d68d4e5.chunk.js.map": "/compass-lawyer-react/static/js/2.8d68d4e5.chunk.js.map",
+    "static/js/3.337305ba.chunk.js": "/compass-lawyer-react/static/js/3.337305ba.chunk.js",
+    "static/js/3.337305ba.chunk.js.map": "/compass-lawyer-react/static/js/3.337305ba.chunk.js.map",
+    "index.html": "/compass-lawyer-react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/compass-lawyer-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8d68d4e5.chunk.js.LICENSE.txt": "/compass-lawyer-react/static/js/2.8d68d4e5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/compass-lawyer-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27d96a3b.js",
+    "static/js/2.8d68d4e5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.20e2131b.chunk.js"
+  ]
+}
